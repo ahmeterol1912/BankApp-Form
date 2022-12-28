@@ -1,0 +1,172 @@
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\48572\Desktop\Project 2\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\48572\Desktop\Project 2\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\48572\Desktop\Project 2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\48532\OneDrive\Escritorio\Project 2X\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\48572\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Rana Uysal\Desktop\Project 2X\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\Rana Uysal\Desktop\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\CETIN\Desktop\OOP\Project 2\Project 2X - Kopya\Project2\Project2\obj\Debug\Project2.pdb
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\bin\Debug\Project2.exe.config
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\bin\Debug\Project2.exe
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\bin\Debug\Project2.pdb
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.Add_Customer.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.AddStaff.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.ControlBalance.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.EditCustomer.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.Form1.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.ShowCustomer.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.ShowStaff.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.StaffManaging.resources
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.exe
+E:\Vistula\dersqq2\OOP\Project 2X\56462_Project 2_Project 2\Project2\Project2\obj\Debug\Project2.pdb
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.exe.config
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.exe
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.pdb
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.exe
+C:\Users\muham\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.pdb
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.exe.config
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.exe
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\bin\Debug\Project2.pdb
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Add_Customer.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.AddStaff.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ControlBalance.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.EditCustomer.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ShowCustomer.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.ShowStaff.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.StaffManaging.resources
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.exe
+C:\Users\aerol\Desktop\Basic-bank-app-master\Basic-bank-app-master\Project2\obj\Debug\Project2.pdb
